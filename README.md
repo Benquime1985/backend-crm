@@ -19,7 +19,7 @@ Este es un sistema **Full Stack** diseñado para digitalizar la operación de un
 ### Pasos para ejecutar el Backend
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/tu-repositorio.git](https://github.com/TU_USUARIO/tu-repositorio.git)
+    git clone https://github.com/Benquime1985/backend-crm.git
     ```
 2.  **Configura las Variables de Entorno:**
     Crea un archivo `.env` en la raíz del proyecto con el siguiente formato:
